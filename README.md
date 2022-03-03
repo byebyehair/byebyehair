@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 - 🥊 平时喜欢运动
 - 🤔 我的日常微信公众号是“韩西瓜”~ 
 - 📫 欢迎来我的个站一起玩 [https://hanyu.cool](https://hanyu.cool) ~
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
 #### 🔥 我的项目
 - 🔰 [个站](https://github.com/okhanyu/okhanyu.github.io) My Blog.
 - 🌱 [Java DDD&组件化脚手架](https://github.com/okhanyu/scaffold).
 - 🌱 一些自己封装的SpringBoot Starter.
 
 
-[![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu)
+<!-- [![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu) -->
