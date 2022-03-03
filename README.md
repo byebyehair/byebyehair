@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 嘿，朋友，我是韩西瓜，一名Developer，目前就职于鹅厂，欢迎关注公众号「韩西瓜」，期待和你遇见呀！
+💬 嘿，朋友，我是韩西瓜，一名Developer，目前就职于鹅厂，欢迎关注公众号「韩西瓜」，期待和你遇见呀！  
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 #### 👨‍🚒 关于我
