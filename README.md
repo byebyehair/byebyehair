@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💬 嘿，朋友，我是韩西瓜，一名Developer，目前就职于鹅厂，欢迎关注公众号「韩西瓜」，期待和你遇见呀！
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 #### 👨‍🚒 关于我
 - ⚡ 我有两只特别可爱的猫猫叫“佩奇” & “科科”~
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
 - 🤔 我的日常微信公众号是“韩西瓜”~ 
 - 📫 欢迎来我的个站一起玩 [https://hanyu.cool](https://hanyu.cool) ~
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 #### 🔥 我的项目
 - 🔰 [个站](https://github.com/okhanyu/okhanyu.github.io) My Blog.
