@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 
 #### 🔥 我的项目
-- 🔰 [个站](https://github.com/okhanyu/okhanyu.github.io) My Blog.
 - 🌱 [Java DDD&组件化脚手架](https://github.com/okhanyu/scaffold).
-- 🌱 一些自己封装的SpringBoot Starter.
+- 🔰 一些自己封装的SpringBoot Starter.
 
 
 <!-- [![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu) -->
