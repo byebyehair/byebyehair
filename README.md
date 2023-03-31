@@ -5,6 +5,8 @@
 
 <!--  **okhanyu/okhanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> 
+
 Here are some ideas to get you started:
 
 - 🍭 Find fun on my site [**hanyu.cool**](https://hanyu.cool/)
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
   - ⚡ Have two cats
   - 🥊 Like Sports
   
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> 
+
 
 
 
