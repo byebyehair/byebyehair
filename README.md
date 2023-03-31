@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 
 <!-- [![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu) -->
+
+A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
