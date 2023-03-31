@@ -1,33 +1,25 @@
 ### Hi there 👋
 
-<!--
-**okhanyu/okhanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
+
+<!--  **okhanyu/okhanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-💬 嘿，朋友，我是韩宇Damon，一名Developer，欢迎关注公众号「韩宇Pro」，期待和你遇见呀！  
-
+- 🍭 Find fun on my site [**hanyu.cool**](https://hanyu.cool/)
+- 🌱 I'm taking a break recently
+- 💬 I’m currently reading the Biography of Coca Cola
+- 🔭 I used to work at Tencent
+- 📫 How to reach me:  [**Email**](mailto:hi@hanyu.cool)
+- 👨‍ Fun fact: 
+  - ⚡ Have two cats
+  - 🥊 Like Sports
+  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
-#### 👨‍🚒 关于我
-- ⚡ 我有两只特别可爱的猫猫叫“佩奇” & “科科”~
-- 🥊 平时喜欢运动
-- 📫 欢迎来我的个站一起玩 [https://hanyu.cool](https://hanyu.cool) ~
-
-
-#### 🔥 我的项目
-- 🌱 
-- 🔰 
+#### 🔥 My projects
+- 🌱 Projects is cleared.
+- 🔰 I need to re-start.
 
 
 <!-- [![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu) -->
