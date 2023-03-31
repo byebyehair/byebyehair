@@ -17,9 +17,6 @@ Here are some ideas to get you started:
   
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> -->
 
-#### 🔥 My projects
-- 🌱 Projects is cleared.
-- 🔰 I need to re-start.
 
 
 <!-- [![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu) -->
@@ -27,3 +24,7 @@ Here are some ideas to get you started:
 A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
 
 ---
+
+#### 🔥 My projects Repos:
+- 🌱 Projects is cleared.
+- 🔰 I need to re-start.
