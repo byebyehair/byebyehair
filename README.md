@@ -9,11 +9,11 @@
 
 Here are some ideas to get you started:
 
-- 🍭 Find fun on my site [**hanyu.cool**](https://hanyu.cool/)
+- 🍭 Find fun on my site [**hanyu.life**](https://hanyu.life/)
 - 🌱 I'm taking a break recently
 - 💬 I’m currently reading the Biography of Coca Cola
 - 🔭 I used to work at Tencent
-- 📫 How to reach me:  [**Email**](mailto:hi@hanyu.cool)
+- 📫 How to reach me:  [**Email**](mailto:hi@hanyu.life)
 - 👨‍ Fun fact: 
   - ⚡ Have two cats
   - 🥊 Like Sports
