@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🍭 Find fun on my site [**hanyu.me or hahaha.cc**](https://hahaha.cc)
+- 🍭 Find fun on my site [**hanyu.me | hahaha.cc**](https://hahaha.cc)
 - 🌱 I'm taking a break recently
 - 💬 I’m currently reading the Biography of Coca Cola
 - 🔭 I used to work at Tencent
