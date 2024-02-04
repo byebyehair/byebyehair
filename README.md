@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🍭 Find fun on my site [**Lion.im**](https://lion.im)
+- 🍭 Find fun on my site [**hahaha.cc**](https://hahaha.cc)
 - 🌱 I'm taking a break recently
 - 💬 I’m currently reading the Biography of Coca Cola
 - 🔭 I used to work at Tencent
