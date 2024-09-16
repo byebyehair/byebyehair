@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I'm taking a break recently
 - 💬 I’m currently reading the Biography of Coca Cola
 - 🔭 I used to work at Tencent
-
 - 👨‍ Fun fact: 
   - ⚡ Have two cats
   - 🥊 Like Sports
