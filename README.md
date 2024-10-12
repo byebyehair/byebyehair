@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--  <img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" /> -->
+<!--  <img align="right" src="https://github-readme-stats.vercel.app/api?username=byebyehair&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" /> -->
 
 
-<!--  **okhanyu/okhanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--  **byebyehair/byebyehair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=okhanyu&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=byebyehair&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> 
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- [![okhanyu github stats](https://github-readme-stats.vercel.app/api?username=okhanyu)](https://github.com/okhanyu) -->
+<!-- [![byebyehair github stats](https://github-readme-stats.vercel.app/api?username=byebyehair)](https://github.com/byebyehair) -->
 
 A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
 
