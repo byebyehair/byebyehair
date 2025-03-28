@@ -30,7 +30,6 @@ A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
 - 🌱 Projects is cleared.
 - 🔰 I need to re-start.
 
-
-Contact Me: 
+#### 🔥 Contact Me: 
 - oby@live.com
 - https://t.me/hairbyebye
