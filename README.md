@@ -18,18 +18,16 @@ Here are some ideas to get you started:
   
 
 
-
-
 <!-- [![byebyehair github stats](https://github-readme-stats.vercel.app/api?username=byebyehair)](https://github.com/byebyehair) -->
 
 A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
 
 ---
 
+#### 🔥 Contact Me: 
+- EMAIL: [oby@live.com](oby@live.com)
+- TELEGRAM: [hairbyebye](https://t.me/hairbyebye)
+
 #### 🔥 My projects Repos:
 - 🌱 Projects is cleared.
 - 🔰 I need to re-start.
-
-#### 🔥 Contact Me: 
-- oby@live.com
-- https://t.me/hairbyebye
