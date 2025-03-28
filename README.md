@@ -31,4 +31,6 @@ A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
 - 🔰 I need to re-start.
 
 
-Contact Me: oby@live.com
+Contact Me: 
+- oby@live.com
+- https://t.me/hairbyebye
