@@ -24,9 +24,9 @@ A research and developer, a writer, with Java ⚛️ and Go ♻️ skills.
 
 ---
 
-#### 🔥 Contact Me: 
+<!-- #### 🔥 Contact Me: 
 - EMAIL: [byehair@163.com](byehair@163.com)
-- TELEGRAM: [hairbyebye](https://t.me/hairbyebye)
+- TELEGRAM: [hairbyebye](https://t.me/hairbyebye) -->
 
 #### 🔥 My projects Repos:
 - 🌱 Projects is cleared.
